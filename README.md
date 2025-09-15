@@ -38,6 +38,7 @@ model-index:
 
 # Model Card
 
+[![Open on Hugging Face](https://img.shields.io/badge/Open%20on-%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/eliasalbouzidi/distilbert-nsfw-text-classifier)
 
 This model is designed to categorize text into two classes: "safe", or "nsfw" (not safe for work), which makes it suitable for content moderation and filtering applications.
 
